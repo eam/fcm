@@ -1,6 +1,6 @@
 #!/usr/bin/ruby
 
-require '../lib/fcm.rb'
+require 'fcm'
 require 'getoptlong'
 require 'yaml'
 require 'fileutils'
